@@ -14,48 +14,6 @@ A comprehensive virtual health and fitness platform that brings together fitness
 2. ReactJS App for frontend(nodeJS required)
 3. MySQL database
 
-### Contribution of each team member:
-
-#### Simran Chawla:
-- UML diagram design
-- Database schema design
-- Creation of database and population of data(via SQL scripts)
-- Initial springboot java project setup + Model view controller framework
-- Creation APIs + CSV file upload API and CSV parsing
-- Implemented SOLID principles
-- Implemented Design patterns
-- Lambda implementation
-- CSV Exception handling
-- Added use of Comparable to sort data from API( sortByDuration)
-
-#### Siddarth Dumbre:
-- Frontend project setup
-- Created navbar
-- Made website responsive
-- Backend: Used Stream API to sort the exercises coming from API by name
-- Created an API /exercise/sortByName
-
-#### Mihir:
-- Frontend components create 
-- Created Homepage component 
-- Added animation to homepage
-- Added contact page 
-- Added footer
-- Created a file upload UI and called API to save data from CSV file to database
-
-#### Omkar Vanity:
-- For frontend: Added Benefits page
-- Added classes component
-- Created inner classes for exception handling
-
-#### Kshiti + Ashay:
-- For frontend: Added API call to render data from API
-- Created UI for sorting exercises(by calling API) by Name and by duration 
-
-#### Gaurav:
-- Enhanced database scripts
-- Project Documentation + API documentation in readMe
-
 
 ### SetUp Instructions
 1. Please clone the repository on your local system
